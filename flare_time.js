@@ -85,3 +85,6 @@ return api.connect().then(() => {
 
 // Search for your wallet by public key at https://xrpscan.com/
 // Verify that "Flare address" is present under the Account Summary section.
+
+// If you're on the test-net, you can check for the MessageKey value to be set
+// at https://testnet.xrpl.org/accounts
